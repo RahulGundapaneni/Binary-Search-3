@@ -1,7 +1,7 @@
 // ## Problem2 
 // Find K Closest Elements (https://leetcode.com/problems/find-k-closest-elements/)
 
-// Time Complexity
+// Time Complexity : O(log(n - k)) -Binary Seacrch  + O(k) - Gothrough k elements to form result
 // Space Complexity: O(1)
 
 class Solution {
